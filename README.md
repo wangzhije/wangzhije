@@ -24,13 +24,29 @@ angular babel bash bootstrap css
  -->
 
 <picture>
-<img src="https://skillicons.dev/icons?i=html,css,less,scss,windicss,bootstrap,js,babel,ts,vue,nuxtjs,react,nextjs,angular,nodejs,express,nestjs,">
+<img src="https://skillicons.dev/icons?i=
+html,
+css,less,scss,windicss,
+bootstrap,
+js,babel,
+ts,
+vue,nuxtjs,
+react,nextjs,
+angular,
+nodejs,express,nestjs
+">
 </picture>
 
 ### Tools
 
 <picture>
-<img src="https://skillicons.dev/icons?i=git,githubactions,vscode,webstorm,idea,mysql,redis,webpack,vite,rollup,gulp,npm,yarn,pnpm">
+<img src="https://skillicons.dev/icons?i=
+git,githubactions,
+vscode,webstorm,idea,
+mysql,redis,
+webpack,vite,rollup,gulp,
+npm,yarn,pnpm
+">
 </picture>
 
 ## Analysis
