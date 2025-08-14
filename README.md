@@ -19,15 +19,11 @@ Here are some ideas to get you started:
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Hello,I'm%20wangzhijie&section=header&reversal=true&textBg=false&animation=fadeIn&desc=A%20Frontend%20Developer&descAlign=50&fontAlignY=32&descAlignY=54">
 
-## Stacks
-
-<!--
-angular babel bash bootstrap css
- -->
+## Frontend Stacks
 
 <picture>
-<img src="https://skillicons.dev/icons?i=
-html,
+<img src="https://skillicons.dev/icons?
+i=html,
 css,less,scss,windicss,
 bootstrap,
 js,babel,
@@ -35,19 +31,28 @@ ts,
 vue,nuxtjs,
 react,nextjs,
 angular,
+webpack,vite,rollup,gulp,
+npm,yarn,pnpm,
 nodejs,express,nestjs
 ">
 </picture>
 
+<!-- ## BackEnd Stacks
+
+<picture>
+<img src="https://skillicons.dev/icons?
+i=
+java,
+mysql,redis
+">
+</picture> -->
+
 ## Tools
 
 <picture>
-<img src="https://skillicons.dev/icons?i=
-git,githubactions,
-vscode,webstorm,idea,
-mysql,redis,
-webpack,vite,rollup,gulp,
-npm,yarn,pnpm
+<img src="https://skillicons.dev/icons?
+i=git,githubactions,
+vscode,webstorm,idea
 ">
 </picture>
 
