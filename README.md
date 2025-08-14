@@ -19,7 +19,9 @@ Here are some ideas to get you started:
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Hello,I'm%20wangzhijie&section=header&reversal=true&textBg=false&animation=fadeIn&desc=A%20Frontend%20Developer&descAlign=50&fontAlignY=32&descAlignY=54">
 
-## Frontend Stacks
+<!-- ## Frontend Stacks -->
+
+## Stacks
 
 <picture>
 <img src="https://skillicons.dev/icons?i=html,css,less,scss,windicss,bootstrap,js,babel,ts,vue,nuxtjs,react,nextjs,angular,webpack,vite,rollup,gulp,npm,yarn,pnpm,nodejs,express,nestjs">
