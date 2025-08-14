@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 # Intro
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Hello,I'm%20wangzhijie&section=header&reversal=true&textBg=false&animation=fadeIn&desc=A%20Frontend%20Developer&descAlign=50&fontAlignY=32&descAlignY=54">
+
 ## Stacks
 
 <!--
@@ -37,7 +39,7 @@ nodejs,express,nestjs
 ">
 </picture>
 
-### Tools
+## Tools
 
 <picture>
 <img src="https://skillicons.dev/icons?i=
@@ -49,7 +51,7 @@ npm,yarn,pnpm
 ">
 </picture>
 
-## Analysis
+<!-- ## Analysis
 
 <picture>
   <source
@@ -64,4 +66,4 @@ npm,yarn,pnpm
     media="(prefers-color-scheme: dark)"
   />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wangzhije&layout=compact&hide_border=true&langs_count=8" />
-</picture>
+</picture> -->
