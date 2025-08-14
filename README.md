@@ -22,19 +22,7 @@ Here are some ideas to get you started:
 ## Frontend Stacks
 
 <picture>
-<img src="https://skillicons.dev/icons?
-i=html,
-css,less,scss,windicss,
-bootstrap,
-js,babel,
-ts,
-vue,nuxtjs,
-react,nextjs,
-angular,
-webpack,vite,rollup,gulp,
-npm,yarn,pnpm,
-nodejs,express,nestjs
-">
+<img src="https://skillicons.dev/icons?i=html,css,less,scss,windicss,bootstrap,js,babel,ts,vue,nuxtjs,react,nextjs,angular,webpack,vite,rollup,gulp,npm,yarn,pnpm,nodejs,express,nestjs">
 </picture>
 
 <!-- ## BackEnd Stacks
@@ -50,10 +38,7 @@ mysql,redis
 ## Tools
 
 <picture>
-<img src="https://skillicons.dev/icons?
-i=git,githubactions,
-vscode,webstorm,idea
-">
+<img src="https://skillicons.dev/icons?i=git,githubactions,vscode,webstorm,idea">
 </picture>
 
 <!-- ## Analysis
