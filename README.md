@@ -12,8 +12,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ... -->
 
 # Intro
 
@@ -43,7 +42,7 @@ mysql,redis
 <img src="https://skillicons.dev/icons?i=git,githubactions,vscode,webstorm,idea">
 </picture>
 
-<!-- ## Analysis
+## Analysis
 
 <picture>
   <source
@@ -58,4 +57,4 @@ mysql,redis
     media="(prefers-color-scheme: dark)"
   />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wangzhije&layout=compact&hide_border=true&langs_count=8" />
-</picture> -->
+</picture>
